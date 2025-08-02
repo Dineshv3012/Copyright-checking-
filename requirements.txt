@@ -1,3 +1,4 @@
  Flask
  gunicorn
  flask
+ Flask>=2.0.0
